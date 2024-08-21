@@ -7,4 +7,6 @@ This repository contains a simple web application that provides a question-answe
 2. Dynamic Response Generation: The app generates answers in real-time using a pre-defined Hugging Face model.<br>
 3. User-Friendly Interface: Built using Streamlit, the app offers a clean and easy-to-use interface.
 
+## Results
 
+![image](https://github.com/user-attachments/assets/7537b3cc-4a7d-41b9-a027-bbbaf12c3ce8)

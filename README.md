@@ -1,6 +1,6 @@
 # Question-Answering App Using HuggingFace
 
-This repository contains a simple web application that provides a question-answering interface. It utilizes the langchain library and a Hugging Face model "Mistral-7B-Instruct-v0.2" to generate answers to user-provided questions.
+This repository contains a simple web application that provides a question-answering interface using streamlit. It utilizes the langchain library and a Hugging Face model "Mistral-7B-Instruct-v0.2" to generate answers to user-provided questions.
 
 ## Features: <br>
 1. Question Input: Users can input their questions directly through the app's interface.<br>
